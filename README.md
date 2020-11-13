@@ -1,23 +1,22 @@
-### Илья, основатели и руководитель [Infernal Agency][website]
+### Илья, основатель и руководитель [Infernal Agency][website]
 
 [![Website](https://img.shields.io/website?label=infernal.online&style=for-the-badge&url=https%3A%2F%2Finfernal.online)](https://Infernal.online)
 
 ## Проекты в работе!!
 
 - 🔥 Digital-агенство: [Infernal Agency][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😈 Платформа для геймеров: [Hell Space][hellspace]
+- 🔨 Opensource телеграм бот для ведения задач: [Work today][https://github.com/killeryStark/work-today]
+- 🤐 Остальные проекты строго засекречены)
 
+### Spotify🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="KilleryStark Spotify Playing" width="350" />](https://open.spotify.com/user/12129905024)
 
 [website]: https://Infernal.online
-[course]: http://vsCodeHero.com
+[hellspace]: https://hell-space.ru
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
