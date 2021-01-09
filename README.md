@@ -1,4 +1,4 @@
-### Илья, основатель и руководитель [Infernal Agency][website]
+### Илья крутиков
 
 [![Website](https://img.shields.io/website?label=infernal.online&style=for-the-badge&url=https%3A%2F%2Finfernal.online)](https://Infernal.online)
 
